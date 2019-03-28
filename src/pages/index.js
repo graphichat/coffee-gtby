@@ -1,4 +1,5 @@
 import React from "react"
+// eslint-disable-next-line
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
